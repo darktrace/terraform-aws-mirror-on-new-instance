@@ -27,7 +27,7 @@ module "lambda_mirror_new_instance" {
 }
 ```
 
-## Deploy the module together with the vSesnor module
+## Deploy the module together with the vSensor module
 
 ```
 module "lambda_mirror_new_instance" {
